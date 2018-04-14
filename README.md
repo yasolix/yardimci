@@ -10,14 +10,14 @@ This repository includes utiliy systems, functions, scripts etc. which I have en
     + [RDD Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
     + [DataFrame Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
 
-* *** Cheat Sheet Source ***
+* ***Cheat Sheet Source***
   + [Datacamp Community] (https://www.datacamp.com/community/data-science-cheatsheets)
 
-* *** Jupyter Notebook + Spark ****
+* ***Jupyter Notebook + Spark****
    + Apache Toree (https://toree.incubator.apache.org/docs/current/user/quick-start/)
 
-* *** Spark related ***
+* ***Apache Spark related**
    + Apache Arrow (https://arrow.apache.org/docs/python/install.html)
    
-   
-reference : http://www.codehamster.com/2015/03/09/different-ways-to-calculate-the-euclidean-distance-in-python/
+* ***Utility***   
+    +[euclidean] (http://www.codehamster.com/2015/03/09/different-ways-to-calculate-the-euclidean-distance-in-python/)
