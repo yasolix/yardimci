@@ -14,10 +14,10 @@ This repository includes utiliy systems, functions, scripts etc. which I have en
   + [Datacamp Community] (https://www.datacamp.com/community/data-science-cheatsheets)
 
 * ***Jupyter Notebook + Spark****
-   + Apache Toree (https://toree.incubator.apache.org/docs/current/user/quick-start/)
+   + Apache Toree(https://toree.incubator.apache.org/docs/current/user/quick-start/)
 
 * ***Apache Spark related**
-   + Apache Arrow (https://arrow.apache.org/docs/python/install.html)
+   + Apache Arrow(https://arrow.apache.org/docs/python/install.html)
    
 * ***Utility***   
-    +[euclidean] (http://www.codehamster.com/2015/03/09/different-ways-to-calculate-the-euclidean-distance-in-python/)
+    +[euclidean](http://www.codehamster.com/2015/03/09/different-ways-to-calculate-the-euclidean-distance-in-python/)
