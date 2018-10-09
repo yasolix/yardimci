@@ -21,4 +21,4 @@ This repository includes utiliy systems, functions, scripts etc. which I have en
    
 * ***Utility***   
    + [euclidean](http://www.codehamster.com/2015/03/09/different-ways-to-calculate-the-euclidean-distance-in-python/)
-   + [toolstuido RGB converter] (https://toolstud.io/color/rgb.php)
+   + [toolstuido RGB converter](https://toolstud.io/color/rgb.php)
